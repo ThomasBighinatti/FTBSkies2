@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 255, y: 87, z: 265, time: 1761782436370L, xRot: 11.100039f, yRot: -109.29199f }
+	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 255, y: 87, z: 265, time: 1761783434804L, xRot: 11.100039f, yRot: -109.29199f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 266, y: 82, z: 256, time: 1755906827565L }

@@ -433,27 +433,27 @@
     },
     "done": true
   },
-  "mekanism:energy_cube": {
-    "criteria": {
-      "basic_energy_cube": "2025-10-30 00:53:13 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-30 00:10:51 +0100"
     },
     "done": true
   },
-  "mekanismgenerators:heat_generator": {
-    "criteria": {
-      "heat_generator": "2025-10-30 00:55:12 +0100"
-    },
-    "done": true
-  },
   "hooked:iron_hook": {
     "criteria": {
       "has_pickaxe": "2025-10-30 00:10:51 +0100"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-10-30 00:53:13 +0100"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-10-30 00:55:12 +0100"
     },
     "done": true
   },
