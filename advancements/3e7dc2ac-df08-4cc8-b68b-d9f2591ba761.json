@@ -55,6 +55,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-10-30 13:08:20 +0100",
+      "minecraft:dark_forest": "2025-10-30 13:08:06 +0100",
+      "minecraft:forest": "2025-10-30 13:13:59 +0100",
+      "minecraft:ocean": "2025-10-30 13:08:37 +0100",
+      "minecraft:river": "2025-10-30 13:08:19 +0100",
       "minecraft:plains": "2025-08-23 00:30:49 +0200"
     },
     "done": false
@@ -192,9 +197,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-10-30 14:00:58 +0100",
       "apple": "2025-08-23 01:04:40 +0200",
+      "spider_eye": "2025-10-30 13:05:51 +0100",
       "bread": "2025-10-30 00:48:41 +0100",
+      "sweet_berries": "2025-10-30 13:02:14 +0100",
+      "beef": "2025-10-30 13:16:23 +0100",
+      "baked_potato": "2025-10-30 13:52:47 +0100",
       "melon_slice": "2025-10-23 18:45:25 +0200",
+      "porkchop": "2025-10-30 13:16:19 +0100",
       "golden_carrot": "2025-10-23 19:58:07 +0200"
     },
     "done": false
@@ -340,12 +351,22 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-10-23 18:44:09 +0200",
+      "minecraft:blaze": "2025-10-30 10:56:50 +0100",
+      "minecraft:pillager": "2025-10-30 14:01:15 +0100",
       "minecraft:skeleton": "2025-10-23 19:03:24 +0200",
       "minecraft:zombified_piglin": "2025-10-30 00:04:48 +0100",
+      "minecraft:witch": "2025-10-30 14:04:17 +0100",
+      "minecraft:wither_skeleton": "2025-10-30 10:51:28 +0100",
+      "minecraft:ravager": "2025-10-30 14:03:25 +0100",
+      "minecraft:cave_spider": "2025-10-23 18:44:09 +0200",
+      "minecraft:vindicator": "2025-10-30 14:01:18 +0100",
       "minecraft:enderman": "2025-10-23 19:58:33 +0200",
+      "minecraft:magma_cube": "2025-10-30 11:32:18 +0100",
+      "minecraft:spider": "2025-10-30 13:04:22 +0100",
+      "minecraft:vex": "2025-10-30 17:06:00 +0100",
       "minecraft:zombie": "2025-10-23 19:03:14 +0200",
-      "minecraft:creeper": "2025-10-23 19:03:42 +0200"
+      "minecraft:creeper": "2025-10-23 19:03:42 +0200",
+      "minecraft:evoker": "2025-10-30 14:09:06 +0100"
     },
     "done": false
   },
@@ -363,7 +384,9 @@
   },
   "apotheosis:progression/frontier": {
     "criteria": {
-      "common_hand": "2025-10-23 19:04:40 +0200"
+      "common_helm": "2025-10-30 11:12:08 +0100",
+      "common_hand": "2025-10-23 19:04:40 +0200",
+      "common_feet": "2025-10-30 14:09:17 +0100"
     },
     "done": false
   },
@@ -411,7 +434,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-10-23 23:01:37 +0200"
+      "minecraft:crimson_forest": "2025-10-23 23:01:37 +0200",
+      "minecraft:nether_wastes": "2025-10-30 10:48:33 +0100",
+      "minecraft:soul_sand_valley": "2025-10-30 10:49:16 +0100",
+      "minecraft:basalt_deltas": "2025-10-30 10:48:51 +0100"
     },
     "done": false
   },
@@ -454,6 +480,141 @@
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2025-10-30 00:55:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-10-30 10:50:37 +0100"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-10-30 10:51:30 +0100",
+      "opened_chest": "2025-10-30 10:58:11 +0100"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-10-30 10:51:30 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-10-30 10:56:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-30 10:56:53 +0100"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-30 10:58:11 +0100"
+    },
+    "done": true
+  },
+  "modern_industrialization:basic_upgrade": {
+    "criteria": {
+      "checkInv": "2025-10-30 11:00:37 +0100"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-10-30 11:02:25 +0100"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-10-30 11:06:14 +0100",
+      "sapling": "2025-10-30 11:27:04 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_helm": "2025-10-30 11:12:08 +0100"
+    },
+    "done": false
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_helm": "2025-10-30 11:12:08 +0100",
+      "uncommon_feet": "2025-10-30 14:09:17 +0100"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-10-30 11:17:36 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-10-30 11:26:59 +0100"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-10-30 11:44:26 +0100"
+    },
+    "done": false
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-10-30 11:44:28 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-10-30 13:02:17 +0100"
+    },
+    "done": false
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-10-30 13:03:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-30 13:04:42 +0100"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-10-30 13:14:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-10-30 14:01:18 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-10-30 13:45:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-10-30 14:02:43 +0100"
     },
     "done": true
   },

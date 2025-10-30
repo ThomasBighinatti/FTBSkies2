@@ -3,13 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 255, y: 87, z: 265, time: 1761783434804L, xRot: 11.100039f, yRot: -109.29199f }
+	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 239, y: 95, z: 269, time: 1761840677483L, xRot: 11.062368f, yRot: 120.590576f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 266, y: 82, z: 256, time: 1755906827565L }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225021731L, xRot: 19.80003f, yRot: -78.48389f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 258, y: 87, z: 263, time: 1761225607949L, xRot: 13.349935f, yRot: 167.21313f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 247, y: 87, z: 244, time: 1761237794966L }
+		{ dim: "minecraft:the_nether", x: 5268, y: 2, z: 18096, time: 1761817818737L, xRot: 57.9f, yRot: 30.750214f }
+		{ dim: "minecraft:the_nether", x: 3299, y: 98, z: -19060, time: 1761821156038L, xRot: 39.449955f, yRot: 95.782715f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 264, y: 84, z: 269, time: 1761824938025L }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 870, y: 163, z: 280, time: 1761826134527L, xRot: -4.4999027f, yRot: -87.29932f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9301, y: 135, z: 12695, time: 1761826797869L, xRot: 20.658575f, yRot: -71.289f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9324, y: 133, z: 12684, time: 1761828284517L, xRot: -1.6913917f, yRot: 22.610992f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 231, y: 87, z: 273, time: 1761829748681L }
 	]
 	homes: {
 		maison: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225019127L, xRot: 19.80003f, yRot: -78.48389f }
