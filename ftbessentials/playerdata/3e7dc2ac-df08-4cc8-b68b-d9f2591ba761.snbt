@@ -3,10 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 239, y: 95, z: 269, time: 1761840677483L, xRot: 11.062368f, yRot: 120.590576f }
+	last_seen: { dim: "minecraft:the_nether", x: 7271, y: 119, z: 1682, time: 1761859979352L, xRot: -5.5492716f, yRot: 141.1499f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225021731L, xRot: 19.80003f, yRot: -78.48389f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 258, y: 87, z: 263, time: 1761225607949L, xRot: 13.349935f, yRot: 167.21313f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 247, y: 87, z: 244, time: 1761237794966L }
 		{ dim: "minecraft:the_nether", x: 5268, y: 2, z: 18096, time: 1761817818737L, xRot: 57.9f, yRot: 30.750214f }
@@ -16,6 +15,7 @@
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9301, y: 135, z: 12695, time: 1761826797869L, xRot: 20.658575f, yRot: -71.289f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9324, y: 133, z: 12684, time: 1761828284517L, xRot: -1.6913917f, yRot: 22.610992f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 231, y: 87, z: 273, time: 1761829748681L }
+		{ dim: "minecraft:the_nether", x: 4454, y: 177, z: 18218, time: 1761858886092L, xRot: -2.2494993f, yRot: 91.784195f }
 	]
 	homes: {
 		maison: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225019127L, xRot: 19.80003f, yRot: -78.48389f }
