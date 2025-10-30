@@ -1,0 +1,18 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 255, y: 87, z: 265, time: 1761782436370L, xRot: 11.100039f, yRot: -109.29199f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 266, y: 82, z: 256, time: 1755906827565L }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225021731L, xRot: 19.80003f, yRot: -78.48389f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 258, y: 87, z: 263, time: 1761225607949L, xRot: 13.349935f, yRot: 167.21313f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 247, y: 87, z: 244, time: 1761237794966L }
+	]
+	homes: {
+		maison: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225019127L, xRot: 19.80003f, yRot: -78.48389f }
+	}
+	kit_use_times: { }
+}

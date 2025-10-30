@@ -1,0 +1,18 @@
+{
+	"failure": {
+		"On Cooldown": 427.0,
+		"Wandering Trader": 1.0,
+		"Apotheosis Boss Event": 3.0
+	},
+	"success": {
+		"Llama": 7.0,
+		"Frog and Squids": 2.0,
+		"Wandering Trader": 6.0,
+		"Goat": 1.0,
+		"Creeper": 2.0,
+		"Allay Trade Event": 12.0,
+		"Fairy Event": 5.0,
+		"Pyromancer": 3.0,
+		"Apotheosis Boss Event": 1.0
+	}
+}
