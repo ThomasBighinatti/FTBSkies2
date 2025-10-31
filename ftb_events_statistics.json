@@ -1,19 +1,19 @@
 {
 	"failure": {
-		"On Cooldown": 680.0,
+		"On Cooldown": 939.0,
 		"Wandering Trader": 1.0,
 		"Apotheosis Boss Event": 6.0,
 		"Player Dead": 2.0
 	},
 	"success": {
-		"Llama": 9.0,
+		"Llama": 10.0,
 		"Frog and Squids": 4.0,
-		"Wandering Trader": 9.0,
-		"Goat": 1.0,
-		"Creeper": 2.0,
-		"Allay Trade Event": 21.0,
-		"Fairy Event": 8.0,
-		"Pyromancer": 5.0,
+		"Wandering Trader": 13.0,
+		"Goat": 3.0,
+		"Creeper": 3.0,
+		"Allay Trade Event": 28.0,
+		"Fairy Event": 14.0,
+		"Pyromancer": 8.0,
 		"Apotheosis Boss Event": 1.0
 	}
 }

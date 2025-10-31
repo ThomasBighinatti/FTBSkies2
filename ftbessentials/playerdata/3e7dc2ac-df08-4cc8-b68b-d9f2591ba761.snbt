@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:the_nether", x: 7271, y: 119, z: 1682, time: 1761859979352L, xRot: -5.5492716f, yRot: 141.1499f }
+	last_seen: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 255, y: 89, z: 257, time: 1761919053865L, xRot: 11.400015f, yRot: -53.28427f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 258, y: 87, z: 263, time: 1761225607949L, xRot: 13.349935f, yRot: 167.21313f }
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 247, y: 87, z: 244, time: 1761237794966L }
-		{ dim: "minecraft:the_nether", x: 5268, y: 2, z: 18096, time: 1761817818737L, xRot: 57.9f, yRot: 30.750214f }
-		{ dim: "minecraft:the_nether", x: 3299, y: 98, z: -19060, time: 1761821156038L, xRot: 39.449955f, yRot: 95.782715f }
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 264, y: 84, z: 269, time: 1761824938025L }
-		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 870, y: 163, z: 280, time: 1761826134527L, xRot: -4.4999027f, yRot: -87.29932f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9301, y: 135, z: 12695, time: 1761826797869L, xRot: 20.658575f, yRot: -71.289f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 9324, y: 133, z: 12684, time: 1761828284517L, xRot: -1.6913917f, yRot: 22.610992f }
 		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 231, y: 87, z: 273, time: 1761829748681L }
 		{ dim: "minecraft:the_nether", x: 4454, y: 177, z: 18218, time: 1761858886092L, xRot: -2.2494993f, yRot: 91.784195f }
+		{ dim: "minecraft:the_nether", x: 8134, y: 133, z: 1526, time: 1761905506647L, xRot: 14.549982f, yRot: 11.397888f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: -10842, y: 49, z: -6899, time: 1761914001592L, xRot: 24.899853f, yRot: -67.24829f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 1004, y: 87, z: 689, time: 1761916022455L, xRot: 42.89996f, yRot: 132.79791f }
+		{ dim: "minecraft:the_nether", x: 6292, y: 105, z: 18064, time: 1761917865172L, xRot: 9.449849f, yRot: 170.4646f }
+		{ dim: "minecraft:the_nether", x: 6296, y: 105, z: 18070, time: 1761918501460L, xRot: 9.9001255f, yRot: 87.51709f }
+		{ dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 564, y: 131, z: 1752, time: 1761918998088L, xRot: 4.500035f, yRot: 73.46728f }
 	]
 	homes: {
 		maison: { dim: "ftbteambases:private_for_k4rn4g3__20250823_003048", x: 256, y: 87, z: 261, time: 1761225019127L, xRot: 19.80003f, yRot: -78.48389f }

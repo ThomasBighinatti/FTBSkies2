@@ -55,11 +55,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-10-30 13:08:20 +0100",
-      "minecraft:dark_forest": "2025-10-30 13:08:06 +0100",
+      "minecraft:old_growth_pine_taiga": "2025-10-31 13:13:32 +0100",
       "minecraft:forest": "2025-10-30 13:13:59 +0100",
+      "minecraft:taiga": "2025-10-31 11:40:09 +0100",
+      "minecraft:lush_caves": "2025-10-31 13:27:46 +0100",
+      "minecraft:ice_spikes": "2025-10-31 13:06:52 +0100",
+      "minecraft:frozen_river": "2025-10-31 11:32:23 +0100",
       "minecraft:ocean": "2025-10-30 13:08:37 +0100",
+      "minecraft:jungle": "2025-10-31 11:48:58 +0100",
+      "minecraft:cherry_grove": "2025-10-31 13:12:41 +0100",
+      "minecraft:sunflower_plains": "2025-10-31 13:12:54 +0100",
+      "minecraft:birch_forest": "2025-10-31 11:40:16 +0100",
+      "minecraft:wooded_badlands": "2025-10-31 13:16:34 +0100",
+      "minecraft:bamboo_jungle": "2025-10-31 12:58:19 +0100",
+      "minecraft:badlands": "2025-10-31 13:16:27 +0100",
+      "minecraft:flower_forest": "2025-10-31 13:00:50 +0100",
+      "minecraft:dark_forest": "2025-10-30 13:08:06 +0100",
+      "minecraft:stony_peaks": "2025-10-31 12:48:08 +0100",
+      "minecraft:sparse_jungle": "2025-10-31 11:48:56 +0100",
       "minecraft:river": "2025-10-30 13:08:19 +0100",
+      "minecraft:snowy_plains": "2025-10-31 11:32:12 +0100",
+      "minecraft:snowy_taiga": "2025-10-31 11:32:24 +0100",
+      "minecraft:dripstone_caves": "2025-10-31 13:25:24 +0100",
+      "minecraft:frozen_peaks": "2025-10-31 12:47:52 +0100",
+      "minecraft:old_growth_birch_forest": "2025-10-30 13:08:20 +0100",
+      "minecraft:grove": "2025-10-31 12:47:50 +0100",
+      "minecraft:meadow": "2025-10-31 13:00:55 +0100",
+      "minecraft:savanna": "2025-10-31 11:52:09 +0100",
       "minecraft:plains": "2025-08-23 00:30:49 +0200"
     },
     "done": false
@@ -167,7 +189,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "honey_glazed_ham": "2025-08-23 00:34:55 +0200"
+      "honey_glazed_ham": "2025-08-23 00:34:55 +0200",
+      "stuffed_pumpkin": "2025-10-31 11:55:46 +0100"
     },
     "done": false
   },
@@ -199,15 +222,27 @@
     "criteria": {
       "cooked_porkchop": "2025-10-30 22:32:21 +0100",
       "mutton": "2025-10-30 14:00:58 +0100",
-      "apple": "2025-08-23 01:04:40 +0200",
-      "spider_eye": "2025-10-30 13:05:51 +0100",
+      "pufferfish": "2025-10-31 11:44:51 +0100",
       "bread": "2025-10-30 00:48:41 +0100",
+      "golden_apple": "2025-10-31 10:18:34 +0100",
+      "rotten_flesh": "2025-10-31 12:53:52 +0100",
       "sweet_berries": "2025-10-30 13:02:14 +0100",
+      "salmon": "2025-10-31 11:47:09 +0100",
       "beef": "2025-10-30 13:16:23 +0100",
       "baked_potato": "2025-10-30 13:52:47 +0100",
       "melon_slice": "2025-10-23 18:45:25 +0200",
       "porkchop": "2025-10-30 13:16:19 +0100",
-      "golden_carrot": "2025-10-23 19:58:07 +0200"
+      "golden_carrot": "2025-10-23 19:58:07 +0200",
+      "beetroot": "2025-10-31 11:54:40 +0100",
+      "beetroot_soup": "2025-10-31 11:54:59 +0100",
+      "apple": "2025-08-23 01:04:40 +0200",
+      "spider_eye": "2025-10-30 13:05:51 +0100",
+      "cooked_chicken": "2025-10-31 11:36:31 +0100",
+      "enchanted_golden_apple": "2025-10-31 10:19:02 +0100",
+      "potato": "2025-10-31 12:40:29 +0100",
+      "rabbit": "2025-10-31 11:54:02 +0100",
+      "mushroom_stew": "2025-10-31 11:42:17 +0100",
+      "carrot": "2025-10-31 12:41:29 +0100"
     },
     "done": false
   },
@@ -359,6 +394,7 @@
       "minecraft:witch": "2025-10-30 14:04:17 +0100",
       "minecraft:wither_skeleton": "2025-10-30 10:51:28 +0100",
       "minecraft:ravager": "2025-10-30 14:03:25 +0100",
+      "minecraft:husk": "2025-10-31 12:53:34 +0100",
       "minecraft:cave_spider": "2025-10-23 18:44:09 +0200",
       "minecraft:piglin": "2025-10-30 22:29:27 +0100",
       "minecraft:vindicator": "2025-10-30 14:01:18 +0100",
@@ -368,6 +404,7 @@
       "minecraft:vex": "2025-10-30 17:06:00 +0100",
       "minecraft:zombie": "2025-10-23 19:03:14 +0200",
       "minecraft:creeper": "2025-10-23 19:03:42 +0200",
+      "minecraft:zombie_villager": "2025-10-31 13:04:49 +0100",
       "minecraft:evoker": "2025-10-30 14:09:06 +0100"
     },
     "done": false
@@ -439,9 +476,10 @@
       "minecraft:crimson_forest": "2025-10-23 23:01:37 +0200",
       "minecraft:nether_wastes": "2025-10-30 10:48:33 +0100",
       "minecraft:soul_sand_valley": "2025-10-30 10:49:16 +0100",
-      "minecraft:basalt_deltas": "2025-10-30 10:48:51 +0100"
+      "minecraft:basalt_deltas": "2025-10-30 10:48:51 +0100",
+      "minecraft:warped_forest": "2025-10-31 11:06:44 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -549,6 +587,7 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
+      "uncommon_hand": "2025-10-31 12:54:23 +0100",
       "uncommon_helm": "2025-10-30 11:12:08 +0100",
       "uncommon_feet": "2025-10-30 14:09:17 +0100"
     },
@@ -629,6 +668,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-10-30 22:22:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-10-30 22:23:35 +0100"
@@ -638,12 +683,6 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-10-30 22:24:52 +0100"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "opened_100": "2025-10-30 22:22:45 +0100"
     },
     "done": true
   },
@@ -658,6 +697,138 @@
       "tools": "2025-10-30 22:29:36 +0100"
     },
     "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-10-31 10:11:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-10-31 10:39:44 +0100"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-10-31 11:08:40 +0100"
+    },
+    "done": false
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-10-31 11:08:41 +0100"
+    },
+    "done": true
+  },
+  "fargostalismans:abominable_energy": {
+    "criteria": {
+      "requirement": "2025-10-31 11:30:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-10-31 11:37:16 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-10-31 11:42:17 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-10-31 11:50:58 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2025-10-31 13:03:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-10-31 14:23:28 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-10-31 14:52:10 +0100"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-10-31 14:06:46 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-10-31 12:40:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2025-10-31 13:48:45 +0100"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-10-31 13:38:36 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-10-31 13:04:12 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-10-31 13:04:12 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "place_block": "2025-10-31 13:44:45 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-10-31 14:35:51 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ignis": "2025-10-31 14:35:51 +0100"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-10-31 13:04:12 +0100"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_puffs": "2025-10-31 12:52:02 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
